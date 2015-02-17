@@ -17,6 +17,7 @@ using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
 
 //Jon Snow Dies
+//Snape Kills Dumbledore
 
 namespace VisualStudioIntegrationTest
 {
